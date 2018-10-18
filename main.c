@@ -1,3 +1,6 @@
+/*this project about municipal corporation of a city
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include<string.h>
@@ -220,7 +223,7 @@ case 1:system("cls");
     {system("COLOR 5E");
    printf("Ahmedabad, in western India, is the largest city in the state of Gujarat.\n");
    printf(" The Sabarmati River runs through its center.\n");
-   printf(" On the western bank is the Gandhi Ashram at Sabarmati, which displays the spiritual leader’s living quarters and artifacts. Across the river, the Calico Museum of Textiles, once a cloth merchant's mansion, has a significant collection of antique and modern fabrics\n");
+   printf(" On the western bank is the Gandhi Ashram at Sabarmati, which displays the spiritual leaderâ€™s living quarters and artifacts. Across the river, the Calico Museum of Textiles, once a cloth merchant's mansion, has a significant collection of antique and modern fabrics\n");
    goto muncipal;
    break;}
    case 2:system("cls");
