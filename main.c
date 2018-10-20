@@ -1,5 +1,4 @@
-/*this project about municipal corporation of a city
-*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
