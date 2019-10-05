@@ -1,4 +1,6 @@
-
+/*This project has been completely written in C.
+About:-
+This Project is related to Municipal corporation. */
 
 #include <stdio.h>
 #include <stdlib.h>
